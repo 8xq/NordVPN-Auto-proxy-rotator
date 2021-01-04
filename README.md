@@ -17,6 +17,14 @@ NordVPN - installed to default c directory
 4. Now it will automatically change IP on set intervals
 ```
 
+## C# usage
+```
+1. Add / remove servers from CountryList.txt
+2. Open tool and select how often you would like your IP to chnage (in seconds)
+3. Press start / stop
+```
+![](https://gyazo.com/f57a8341a61c69d0bd64a36d44402ae7.gif)
+
 ```
 Admin@hvh.site
 ```
