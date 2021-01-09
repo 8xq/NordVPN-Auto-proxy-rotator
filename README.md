@@ -7,6 +7,7 @@ This is a very simple proxy switcher for NordVPN , the examples included will be
 ```
 NordVPN (active plan)
 NordVPN - installed to default c directory
+C# requires a list of NordVPN countries
 ```
 
 ## Batch file usage
