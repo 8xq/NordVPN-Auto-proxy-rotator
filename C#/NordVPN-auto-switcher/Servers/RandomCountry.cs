@@ -9,6 +9,7 @@ namespace NordVPN_auto_switcher.Servers
 {
     class RandomCountry
     {
+        // CountryList.txt needs to exist otherwise it wont work at all <-
         List<string> countryList = System.IO.File.ReadLines(@"CountryList.txt").ToList();
         public string GrabRandomCountry()
         {
